@@ -1,7 +1,6 @@
 1. **Project Name:** **_Computational Modelling of the Atria using Forward Solutions_**
-2. **Vision:** To reconstruct the electrical signals of the heart using measured data from the endocardial surface
-3. **Mission:** The 3D model of the heart will be in the form of potential and activation maps. The maps will be constructed by using 
-forward solution to obtain the necessary spatiotemporal signals 
+2. **Vision:** To reconstruct a 3D model of the electrical signals of the heart using measured data from the endocardial surface
+3. **Mission:** The 3D model of the heart will be in the form of potential and activation maps. The maps will be constructed by using forward solution to obtain the necessary spatiotemporal signals 
 4. **Success Criteria:**
      1. Create an algorithm that will define the computational requirements
      2. Create a script file that runs a forward solution 
