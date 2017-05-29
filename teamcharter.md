@@ -12,6 +12,6 @@ forward solution to obtain the necessary spatiotemporal signals
      2. Communication Agreement
          * Immediate feedback on possible changes
 6. **Project Team:**
-     *Emma Ordono - PhD Student
-     *David Budgett - Main Supervisor
-     *Bruce Smaill - Co Supervisor
+     * Emma Ordono - PhD Student
+     * David Budgett - Main Supervisor
+     * Bruce Smaill - Co Supervisor
