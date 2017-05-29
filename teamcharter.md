@@ -10,5 +10,8 @@ forward solution to obtain the necessary spatiotemporal signals
      1. Behaviour Agreement
          * Patience in creating the script file
      2. Communication Agreement
-         * Immediate 
+         * Immediate feedback on possible changes
 6. **Project Team:**
+     *Emma Ordono - PhD Student
+     *David Budgett - Main Supervisor
+     *Bruce Smaill - Co Supervisor
