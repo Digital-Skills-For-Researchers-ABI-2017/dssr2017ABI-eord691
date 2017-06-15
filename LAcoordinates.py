@@ -14,7 +14,7 @@ def extract_xlsx(filename):
             for column in range(worksheet.ncols):
                 x = float(worksheet.cell(row,0).value)
                 y = float(worksheet.cell(row,1).value)
-                z = float(worksheet.cell(row,1).value)
+                z = float(worksheet.cell(row,2).value)
     return 
 
 
